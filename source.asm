@@ -1,5 +1,5 @@
 ;---------------------------;
-; Assignment 4              ; 
+; ATM Program               ; 
 ; Author: Patrick Withams   ;
 ; Date: 20/6/2015           ;
 ;---------------------------;
